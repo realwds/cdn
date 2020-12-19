@@ -134,4 +134,4 @@ function le() {
     };
 }
 var bgmSrc = "https://m7.music.126.net/20201219231059/2949ea296bafa181d3c942157cd89692/ymusic/69ea/af4b/0b5a/ec0722198a0d113eec83ac810f18fca3.mp3";
-var cssHref = "https://cdn.jsdelivr.net/gh/realwds/cdn/css/crazy.css";
+var cssHref = "https://blog.kieng.cn/static/css/hi.css"; //https://cdn.jsdelivr.net/gh/realwds/cdn/css/crazy.css
