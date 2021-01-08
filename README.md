@@ -11,8 +11,12 @@
 
 ### 在网页头部引入crazy.js:
 
-``` <script src="https://cdn.jsdelivr.net/gh/realwds/cdn/js/crazy.js"></script> ```
+``` js
+<script src="https://cdn.jsdelivr.net/gh/realwds/cdn/js/crazy.js"></script> 
+```
 
 ### 或者新建一个浏览器书签，地址填下面这个:
 
-``` javascript:void(function(){var d = document,a = 'setAttribute',s = d.createElement('script');s[a]('type','text/javascript');s[a]('src','https://cdn.jsdelivr.net/gh/realwds/cdn/js/crazy.js');d.head.appendChild(s);})(); ```
+``` js
+javascript:void(function(){var d = document,a = 'setAttribute',s = d.createElement('script');s[a]('type','text/javascript');s[a]('src','https://cdn.jsdelivr.net/gh/realwds/cdn/js/crazy.js');d.head.appendChild(s);})(); 
+```
