@@ -15,8 +15,12 @@
 <script src="https://cdn.jsdelivr.net/gh/realwds/cdn/js/crazy.js"></script> 
 ```
 
-### 或者新建一个浏览器书签，地址填下面这个:
+### 或者新建一个浏览器书签，地址填下面这个：
 
-``` js
+``` js 
 javascript:void(function(){var d = document,a = 'setAttribute',s = d.createElement('script');s[a]('type','text/javascript');s[a]('src','https://cdn.jsdelivr.net/gh/realwds/cdn/js/crazy.js');d.head.appendChild(s);})(); 
 ```
+
+## video
+
+<iframe src="https://cdn.jsdelivr.net/gh/realwds/cdn/geu.mp4" frameborder="0" allowfullscreen></iframe>
