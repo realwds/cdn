@@ -22,5 +22,5 @@ javascript:void(function(){var d = document,a = 'setAttribute',s = d.createEleme
 ## video
 
 ``` html
-<iframe src="https://cdn.jsdelivr.net/gh/realwds/cdn/geu.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://cdn.jsdelivr.net/gh/realwds/cdn/video/geu.mp4" frameborder="0" allowfullscreen></iframe>
 ```
