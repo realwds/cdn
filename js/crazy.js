@@ -133,5 +133,5 @@ function le() {
         }
     };
 }
-var bgmSrc = "https://m7.music.126.net/20201219231059/2949ea296bafa181d3c942157cd89692/ymusic/69ea/af4b/0b5a/ec0722198a0d113eec83ac810f18fca3.mp3";
+var bgmSrc = "https://cdn.jsdelivr.net/gh/realwds/cdn/music/%E7%88%B1%E7%9A%84%E5%8F%AF%E8%83%BD%20-%20%E5%8F%B6%E5%80%A9%E6%96%87.mp3";
 var cssHref = "https://blog.kieng.cn/static/css/hi.css"; //https://cdn.jsdelivr.net/gh/realwds/cdn/css/crazy.css
